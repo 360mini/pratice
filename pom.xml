@@ -19,6 +19,8 @@
         <module>springboot</module>
         <module>spring</module>
         <module>springmvc</module>
+        <module>dubbo</module>
+        <module>netty</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
