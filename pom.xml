@@ -19,7 +19,6 @@
         <module>springboot</module>
         <module>spring</module>
         <module>springmvc</module>
-        <module>nacos</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
