@@ -11,6 +11,10 @@
 
     <artifactId>design-pattern</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>factory-pattern</module>
+        <module>abstractfactory-pattern</module>
+    </modules>
 
 
 </project>
